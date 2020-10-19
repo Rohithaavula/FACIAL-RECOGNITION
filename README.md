@@ -4,6 +4,6 @@ Jupyter Notebook Guide for implementing Face Recognition and Face Verification a
 
 Face Recognition library used for detecting landmarks on faces.
 
-Code involves implementation of triple loss function, togather with implementation of face verification and face recognition algorithms.
+Code involves implementation of triple loss function, together with implementation of face verification and face recognition algorithms.
 
 Encoded images to 128 dimensional embedding vectors.
